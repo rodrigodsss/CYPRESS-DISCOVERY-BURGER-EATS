@@ -1,0 +1,60 @@
+{
+    "signup" : {
+
+        "name" : "Rodrigo Sousa",
+        "cpf"  : "00000000011",
+        "email" : "tamojunto@hotmail.com",
+        "whatsapp" : "11999999999",
+        "address" : {
+            "postalcode" : "04952120",
+            "street" : "Rua Ângela Verardo Silvestre",
+            "number" : "203",
+            "details" :"CASA",
+            "district" : "Vila Bela Vista (Zona Sul)",
+            "city_state" : "São Paulo/SP"
+        },
+        
+        "delivery_method" : "Moto",
+        "cnh" : "cnh-digital.jpg"
+
+    },
+    "cpf_inv" : {
+
+        "name" : "Rodrigo Sousa",
+        "cpf"  : "000000ATE0A",
+        "email" : "tamojunto@hotmail.com",
+        "whatsapp" : "11999999999",
+        "address" : {
+            "postalcode" : "04952120",
+            "street" : "Rua Ângela Verardo Silvestre",
+            "number" : "203",
+            "details" :"CASA",
+            "district" : "Vila Bela Vista (Zona Sul)",
+            "city_state" : "São Paulo/SP"
+        },
+        
+        "delivery_method" : "Moto",
+        "cnh" : "cnh-digital.jpg"
+
+    },
+    "email_inv" : {
+
+        "name" : "Rodrigo Sousa",
+        "cpf"  : "00000000011",
+        "email" : "tamojunto.com",
+        "whatsapp" : "11999999999",
+        "address" : {
+            "postalcode" : "04952120",
+            "street" : "Rua Ângela Verardo Silvestre",
+            "number" : "203",
+            "details" :"CASA",
+            "district" : "Vila Bela Vista (Zona Sul)",
+            "city_state" : "São Paulo/SP"
+        },
+        
+        "delivery_method" : "Moto",
+        "cnh" : "cnh-digital.jpg"
+
+    }
+
+}
